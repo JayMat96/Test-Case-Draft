@@ -35,6 +35,20 @@ Jalen Mojica
 * A room big enough for the testers and their testing systems
 * A playable version of PLEX's "build mode"
 
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |			
+| 4 | | | |			
+| 5 | | | |			
+| 6 | | | |			
+| 7 | | | |			
+| 8 | | | |			
+| 9 | | | |			
+| 10 | | | |	
+
 ## Requirements Covered
 
 #### Test Case ID:
@@ -70,3 +84,17 @@ Jalen Mojica
 * At least one tester (can be developer)
 * All needed menus added into PLEX
 * A way to open up menus in PLEX
+
+## Test Steps: 
+| # | Description | Expected Result | Check (√) |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |			
+| 4 | | | |			
+| 5 | | | |			
+| 6 | | | |			
+| 7 | | | |			
+| 8 | | | |			
+| 9 | | | |			
+| 10 | | | |	
