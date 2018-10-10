@@ -36,3 +36,7 @@ Jalen Mojica
 * Must be able to return an integer result from a query
 
 #### Pre-Test Conditions:
+* At least 5 consoles/computers running PLEX
+* At least 5 testers
+* A room big enough for the testers and their testing systems
+* A playable version of PLEX
