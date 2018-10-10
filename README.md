@@ -49,6 +49,13 @@ Jalen Mojica
 | 9 | | | |			
 | 10 | | | |	
 
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |	
+
 ## Requirements Covered
 
 #### Test Case ID:
@@ -98,3 +105,10 @@ Jalen Mojica
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |	
+
+## Run History:
+| # |	Run Date |	Run By |	Results |
+| --- | --- | --- | --- |
+| 1 | | | |			
+| 2 | | | |			
+| 3 | | | |	
