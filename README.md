@@ -26,21 +26,15 @@ Jalen Mojica
 #### Requirements Covered:
 * Database should only work in "build mode"
 * Players must be able to connect to the database
-* Return query results in string format
-* Return query results in an integer/boolean format
 
 #### Test Description/Purpose:
-* Online is not necssary in "story mode" so the database should be active in "build mode" only
 * Must be able to connect to the database so players can play with each other in "build mode"
-* Must be able to return a string result from a query
-* Must be able to return an integer result from a query
 
 #### Pre-Test Conditions:
 * At least 5 consoles/computers running PLEX
 * At least 5 testers
 * A room big enough for the testers and their testing systems
-* A playable version of PLEX
-
+* A playable version of PLEX's "build mode"
 
 ## Requirements Covered
 
@@ -71,7 +65,6 @@ Jalen Mojica
 
 #### Test Description/Purpose:
 * To ensure that the game will always bring up the correct menu at the correct time
-* The game and the player both know what option is being selected at all times
 
 #### Pre-Test Conditions:
 * A computer/console to run PLEX on
