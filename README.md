@@ -40,3 +40,35 @@ Jalen Mojica
 * At least 5 testers
 * A room big enough for the testers and their testing systems
 * A playable version of PLEX
+
+
+## Requirements Covered
+
+#### Test Case ID:
+03
+
+#### Test Case Name:
+
+
+#### Component:
+
+
+#### Test Game Designer:
+Jade
+
+#### Creation Date:
+12/2008
+
+#### Modified By:
+Jalen Mojica
+
+#### Modified Date:
+
+
+#### Requirements Covered:
+
+
+#### Test Description/Purpose:
+
+
+#### Pre-Test Conditions:
