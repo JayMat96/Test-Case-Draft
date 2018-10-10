@@ -63,12 +63,14 @@ Jade
 Jalen Mojica
 
 #### Modified Date:
-
+10/09/2018
 
 #### Requirements Covered:
-
+* Loading the appropriate menu when asked
+* Keeping track of where the selector is
 
 #### Test Description/Purpose:
-
+* To ensure that the game will always bring up the correct menu at the correct time
+* The game and the player both know what option is being selected at all times
 
 #### Pre-Test Conditions:
