@@ -24,7 +24,6 @@ Jalen Mojica
 10/09/2018
 
 #### Requirements Covered:
-* Database should only work in "build mode"
 * Players must be able to connect to the database
 
 #### Test Description/Purpose:
