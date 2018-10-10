@@ -9,7 +9,7 @@
 Database Connection Requirements
 
 #### Component:
-The database used for the online mode of PLEX
+The database used for PLEX's "build mode"
 
 #### Test Game Designer:
 Jade
