@@ -12,16 +12,16 @@ Database Connection Requirements
 The database used for the online mode of PLEX
 
 #### Test Game Designer:
-Jalen Mojica
+Jade
 
 #### Creation Date:
-10/09/18
+12/2008
 
 #### Modified By:
-
+Jalen Mojica
 
 #### Modified Date:
-
+10/09/2018
 
 #### Requirements Covered:
 
