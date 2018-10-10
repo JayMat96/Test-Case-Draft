@@ -74,3 +74,7 @@ Jalen Mojica
 * The game and the player both know what option is being selected at all times
 
 #### Pre-Test Conditions:
+* A computer/console to run PLEX on
+* At least one tester (can be developer)
+* All needed menus added into PLEX
+* A way to open up menus in PLEX
