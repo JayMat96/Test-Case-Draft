@@ -26,10 +26,13 @@ Jalen Mojica
 #### Requirements Covered:
 Database should only work in "build mode"
 Players must be able to connect to the database
-Database must be able to return query results in string format
-Database must be able to return query results in an integer/boolean format
+Return query results in string format
+Return query results in an integer/boolean format
 
 #### Test Description/Purpose:
-
+Online is not necssary in "story mode" so the database should be active in "build mode" only
+Must be able to connect to the database so players can play with each other in "build mode"
+Must be able to return a string result from a query
+Must be able to return an integer result from a query
 
 #### Pre-Test Conditions:
