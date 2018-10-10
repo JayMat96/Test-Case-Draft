@@ -1,6 +1,6 @@
 # Test-Case-Draft
 
-## Requirements Covered
+## Test Details
 
 #### Test Case ID:
 01
@@ -49,6 +49,8 @@ Jalen Mojica
 | 9 | | | |			
 | 10 | | | |	
 
+## Overall Test Status:
+
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
@@ -56,7 +58,7 @@ Jalen Mojica
 | 2 | | | |			
 | 3 | | | |	
 
-## Requirements Covered
+## Test Details
 
 #### Test Case ID:
 03
@@ -105,6 +107,8 @@ Jalen Mojica
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |	
+
+## Overall Test Status:
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
