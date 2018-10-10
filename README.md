@@ -24,7 +24,10 @@ Jalen Mojica
 10/09/2018
 
 #### Requirements Covered:
-
+Database should only work in "build mode"
+Players must be able to connect to the database
+Database must be able to return query results in string format
+Database must be able to return query results in an integer/boolean format
 
 #### Test Description/Purpose:
 
