@@ -9,7 +9,7 @@
 Database Connection Requirements
 
 #### Component:
-The database used for PLEX's "build mode"
+The database used for PLEX's "build mode." Handles all the connectivity with the database. It also fetches and returns query results. 
 
 #### Test Game Designer:
 Jade
@@ -48,10 +48,10 @@ Jalen Mojica
 03
 
 #### Test Case Name:
-
+Menu Driver Requirements
 
 #### Component:
-
+Menu Driver that is in charge of all of PLEX's menu screens
 
 #### Test Game Designer:
 Jade
