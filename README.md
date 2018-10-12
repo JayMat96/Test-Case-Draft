@@ -38,10 +38,10 @@ Jalen Mojica
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
+| 1 | Set up the testing environment | PLEX runs on all computers/consoles being used for testing | |			
+| 2 | Gather Testers | There will a sufficient amount of Testers on hand | |			
+| 3 | Testers will select the "Build Mode" option | Testers are taken to the "Build Mode" menu screen | |			
+| 4 | Testers will attempt to connect to the database | Testers will connect to the database | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
