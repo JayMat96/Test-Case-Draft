@@ -38,9 +38,9 @@ Jalen Mojica
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | Set up the testing environment | PLEX runs on all computers/consoles being used for testing | |			
+| 1 | Set up the testing environment | PLEX will run on all computers/consoles being used for testing | |			
 | 2 | Gather Testers | There will a sufficient amount of Testers on hand | |			
-| 3 | Testers will select the "Build Mode" option | Testers are taken to the "Build Mode" menu screen | |			
+| 3 | Testers will select the "Build Mode" play option | Testers are taken to the "Build Mode" menu screen | |			
 | 4 | Testers will attempt to connect to the database | Testers will connect to the database | |			
 | 5 | | | |			
 | 6 | | | |			
@@ -97,13 +97,13 @@ Jalen Mojica
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
+| 1 | Set up the testing environment | PLEX will run on all computers/consoles being used in testing | |			
+| 2 | Gather Testers | There will be a sufficient amount of Testers on hand | |			
+| 3 | Testers will start the game | Testers will be taken to PLEX's main menu | |			
+| 4 | Testers will choose the "Build Mode" play option | Testers are taken to the "Build Mode" menu screen | |			
+| 5 | |  | |			
+| 6 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to the "Build Mode" menu screen | |			
+| 7 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to PLEX's main menu | |			
 | 8 | | | |			
 | 9 | | | |			
 | 10 | | | |	
