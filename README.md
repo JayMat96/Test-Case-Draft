@@ -42,12 +42,6 @@ Jalen Mojica
 | 2 | Gather Testers | There will a sufficient amount of Testers on hand | |			
 | 3 | Testers will select the "Build Mode" play option | Testers are taken to the "Build Mode" menu screen | |			
 | 4 | Testers will attempt to connect to the database | Testers will connect to the database | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |	
 
 ## Overall Test Status:
 Testing is being done in the QA Environment. Currently, testing is being done to ensure that players will connect to each other when selecting "Build Mode."
