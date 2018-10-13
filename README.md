@@ -44,7 +44,7 @@ Jalen Mojica
 | 4 | Testers will attempt to connect to the database | Testers will connect to the database | |			
 
 ## Overall Test Status:
-Testing is being done in the QA Environment. Currently, testing is being done to ensure that players will connect to each other when selecting "Build Mode."
+Testing is being done in the QA Environment. Currently, testing is being done to ensure that players will connect to each other when selecting "Build Mode." Once testing is complete in the QA Environment, testing will be done in the Staging Environment with Blackbox Testers.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
@@ -111,6 +111,7 @@ Jalen Mojica
  
 
 ## Overall Test Status:
+Testing is being done in the Development Environment to ensure that there are menu transitions. Once that is complete, testing will be moved on to the QA Environment to make sure that the proper menus are displayed. Finally, Blackbox testing will be done in the Staging Environment as a precaution. It is possible that the Blackbox testers will open menus in their own ways which could lead to the wrong menu appearing.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
