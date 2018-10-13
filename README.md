@@ -50,6 +50,7 @@ Jalen Mojica
 | 10 | | | |	
 
 ## Overall Test Status:
+Testing is being done in the QA Environment. Currently, testing is being done to ensure that players will connect to each other when selecting "Build Mode."
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
