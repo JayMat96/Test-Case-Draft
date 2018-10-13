@@ -109,8 +109,9 @@ Jalen Mojica
 | 10 | Testers will select the "New Game" play option | Starting game animations will play. If there are none, Testers will be taken to the "Story Mode"'s gameplay | |
 | 11 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to the "Story Mode" menu screen | |
 | 12 | Testers will choose the "Load Game" or an equivalent option | Testers will be taken to the "Load Game" menu screen | |
-| 13 | | | |
-| 
+| 13 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to the "Story Mode" menu screen | |
+| 14 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to PLEX's main menu screen | |
+ 
 
 ## Overall Test Status:
 
