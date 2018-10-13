@@ -102,7 +102,7 @@ Jalen Mojica
 | 3 | Testers will start the game | Testers will be taken to PLEX's main menu | |			
 | 4 | Testers will choose the "Build Mode" play option | Testers are taken to the "Build Mode" menu screen | |			
 | 5 | Testers will choose the "Highscore" menu button during "Build Mode" gameplay | Testers are taken to the "Highscore" menu screen  | |			
-| 6 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to the "Build Mode" gameplay | |			
+| 6 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to "Build Mode"'s gameplay | |			
 | 7 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to PLEX's main menu | |			
 | 8 | Testers will choose the "Back" option or an equivalent if available | Testers will be taken back to PLEX's main menu | |			
 | 9 | Testers will choose the "Story Mode" play option | Testers will be taken to the "Story Mode" menu screen | |			
