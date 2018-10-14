@@ -121,5 +121,5 @@ Testing is being done in the Development Environment to ensure that there are me
 | 3 | 10/12/2018 | | The "Story Mode" play option leads to the "Build Mode" menu |
 | 4 | 10/13/2018 | | The "Story Mode" menu appears when "Story Mode is selected, but no other options are functional |
 | 5 | 10/17/2018 | | The "New Game" option leads to "Build Mode"'s gameplay |
-| 6 | 10/19/2018 | |  |
+| 6 | 10/19/2018 | | All menus work correctly. There is no way to get out of the "Load Game" menu without choosing a load file |
 | 7 | 10/20/2018 | | All correct menus appear in the correct area with the proper commands |
