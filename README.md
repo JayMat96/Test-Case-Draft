@@ -51,7 +51,7 @@ Testing is being done in the QA Environment. Currently, testing is being done to
 | --- | --- | --- | --- |
 | 1 | 10/09/2018 | QA Testers | Only a few Testers could connect to the database |			
 | 2 | 10/13/2018 | QA Testers | Testers could not connect to the database |			
-| 3 | 10/14/2018 | QA Testers | Only a few Testers could connect to the database |	
+| 3 | 10/14/2018 | QA Testers | Testers successfully connect to the database |	
 | 4 | 10/18/2018 | Pilot Testers | Testers successfully connected to the database, but could not connect to each other |
 | 5 | 11/02/2018 | Pilot Testers | Testers successfully connected to the database and were placed in the same lobby |
 
