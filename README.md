@@ -1,4 +1,4 @@
-# Test-Case-Draft
+# Test-Case
 
 ## Test Details
 
